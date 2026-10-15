@@ -10,5 +10,6 @@ int main() {
     }else{
         cout<<"Bilangan ganjil";
     }
+    system("pause");
     return 0;
 }
